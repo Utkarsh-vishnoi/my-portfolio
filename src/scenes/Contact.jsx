@@ -72,7 +72,7 @@ const Contact = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <form target="_blank" onSubmit={onSubmit} action="https://formsubmit.co/justsomedummymail@gmail.com" method="POST">
+          <form target="_blank" onSubmit={onSubmit} action="https://formsubmit.co/el/confirm/b697ba69580301b25f36313a9ba4db44" method="POST">
             <input
               className="w-full bg-blue font-semibold placeholder-opaque-black p-3"
               type="text"
