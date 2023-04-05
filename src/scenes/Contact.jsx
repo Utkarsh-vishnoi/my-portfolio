@@ -37,11 +37,6 @@ const Contact = () => {
           <div className="flex md:justify-end my-5">
             <LineGradient width="w-1/2" />
           </div>
-
-          <p className="mt-10">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-            mollitia, molestiae quas vel
-          </p>
         </div>
       </motion.div>
 
